@@ -34,3 +34,15 @@ ESLint Shareable Config for Vue.js extending:
     }
     ```
 
+## Additional rules
+
++ **3 attributes** maximum in a single line. [rule](https://github.com/vuejs/eslint-plugin-vue/blob/master/docs/rules/max-attributes-per-line.md)
++ **4 spaces** for HTML indentation within the templates. [rule](https://github.com/vuejs/eslint-plugin-vue/blob/master/docs/rules/html-indent.md)
+
+## License
+
+This library is open-sourced software licensed under the [MIT license](LICENSE).
+
+## Authors
+
+[Hostelworld Team](https://hostelworld.com)
