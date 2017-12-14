@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-hostelworld-vue",
-  "version": "1.2.0",
+  "version": "1.1.0",
   "description": "Hostelworld ESLint Shareable Config for Vue.js",
   "main": "index.js",
   "scripts": {
@@ -25,7 +25,7 @@
   },
   "homepage": "https://github.com/Hostelworld/eslint-config-hostelworld-vue#readme",
   "dependencies": {
-    "eslint-config-hostelworld": "^1.0.x"
+    "eslint-config-hostelworld": "^1.1.x"
   },
   "devDependencies": {
     "babel-eslint": "^8.0.3",

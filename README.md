@@ -4,7 +4,7 @@
 [![npm](https://img.shields.io/npm/v/eslint-config-hostelworld-vue.svg)](https://www.npmjs.com/package/eslint-config-hostelworld-vue)
 [![npm](https://img.shields.io/npm/dt/eslint-config-hostelworld-vue.svg)](https://www.npmjs.com/package/eslint-config-hostelworld-vue)
 
-ESLint Shareable Config extending:
+ESLint Shareable Config for Vue.js extending:
 
 + [`eslint-config-hostelworld`](https://github.com/Hostelworld/eslint-config-hostelworld)
 + [`eslint-config-standard`](https://github.com/standard/eslint-config-standard)
